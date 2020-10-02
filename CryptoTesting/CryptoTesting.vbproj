@@ -72,7 +72,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="clsCrypto.vb" />
+    <Compile Include="crypto.vb" />
+    <Compile Include="fomatting.vb" />
     <Compile Include="frmMain.Designer.vb">
       <DependentUpon>frmMain.vb</DependentUpon>
     </Compile>
